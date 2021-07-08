@@ -1,4 +1,4 @@
-from starter import start
+from Plugins.starter import start
 from nhentai import Nhentai
 from config import bot
 
