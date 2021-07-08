@@ -14,7 +14,7 @@ Use /help to know commands and how to use this bot'''
 
 help_text = '''List of commands:
 
-/hentai : </Hentai <hentai code>
+/nh : </nh <hentai code>
                                
 The files provided are in multiple qualities to download just open file in chrome
                                
