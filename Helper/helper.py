@@ -1,9 +1,7 @@
 start_text = '''Welcome to Hentai Manga DL Bot. Here you can Download all Hentai Mangas for Free.
 
 For many who don’t know about Hentai, this is about Japanese anime and manga porn or cartoon porn. 
-
 This great genre was born in Japan and its real meaning comes from perverse
-
 sexual desire or perverse sexual act since in the vast majority of porn manga we will find fabulous stories of forbidden and very erotic sex.
 
 Note : This Bot Is only for adults
