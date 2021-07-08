@@ -5,7 +5,7 @@ from config import bot
 
 class Nhentai():
 
-    @bot.on(events.NewMessage(pattern="nh"))
+    @bot.on(events.NewMessage(pattern="/nh"))
     async def event_handler_anime(event):
         if 'hentai' == event.raw_text:
             await bot.send_message(
