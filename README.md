@@ -14,7 +14,7 @@
   <summary>Commands Available: </summary>
 
 <pre>/start</pre>: Cool command to check if bot is working.
-<pre>/hentai</pre>: To Get Adult Manga by codes , Example : /nh 339989
+<pre>/nh</pre>: To Get Adult Manga by codes , Example : /nh 339989
 </details>
 
 
