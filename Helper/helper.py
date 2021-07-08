@@ -1,20 +1,24 @@
-start_text = '''Welcome to Manga DL Bot. Here you can Download all Mangas for Free.
+start_text = '''Welcome to Hentai Manga DL Bot. Here you can Download all Hentai Mangas for Free.
 
-You can Also download Anime for free at @tganimesterambot.
+For many who don’t know about Hentai, this is about Japanese anime and manga porn or cartoon porn. 
 
-Please read the Instructions carefully before surfing in...
+This great genre was born in Japan and its real meaning comes from perverse
+
+sexual desire or perverse sexual act since in the vast majority of porn manga we will find fabulous stories of forbidden and very erotic sex.
+
+Note : This Bot Is only for adults
+
+If Any Abuse About This Bot you can report @Yeageristbotsdev
 
 Use /help to know commands and how to use this bot'''
 
 help_text = '''List of commands:
 
-/manga <name of Manga you want> : to download any Manga by search
-
-/nh : </nh <hentai code>
-
-/read : <name of Manga you want to read>
+/hentai : </Hentai <hentai code>
                                
-The files provided are in multiple qualities to download just open filein chrome
+The files provided are in multiple qualities to download just open file in chrome
                                
-To report any Problems, Bugs, Suggestions go to @Animemusicarchive6'''
+To report any Problems, Bugs, Suggestions go to @Yeageristbotsdev
+
+Note : This bot is only for adult'''
 
