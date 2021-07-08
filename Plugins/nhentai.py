@@ -7,7 +7,7 @@ class Nhentai():
 
     @bot.on(events.NewMessage(pattern="/nh"))
     async def event_handler_anime(event):
-        if '/nh' == event.raw_text:
+        if '/hentai' == event.raw_text:
             await bot.send_message(
                 event.chat_id,
                 'Hentai Manga Not Found Command must be used like this\n/nh <hentai code\nexample: /nh 339989',
