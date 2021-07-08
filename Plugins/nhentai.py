@@ -1,6 +1,6 @@
 from telethon import events
 import Helper.formating_results as format
-from API.nhentaiapi import nhentaiapi as nh
+from  nhentaiapi import nhentaiapi as nh
 from config import bot
 
 class Nhentai():
