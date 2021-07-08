@@ -1,6 +1,6 @@
 from telethon import events
 import Helper.formating_results as format
-from API.nhentaiapi import nhentaiapi as nh
+from nhentaiapi import nhentaiapi as nh
 from config import bot
 
 class Nhentai():
@@ -10,8 +10,8 @@ class Nhentai():
         if '/nh' == event.raw_text:
             await bot.send_message(
                 event.chat_id,
-                'Command must be used like this\n/nh <hentai code\nexample: /nh 339989',
-                file='https://tenor.com/view/fujiwara-chika-chika-kaguya-fujiwara-cute-gif-13308132'
+                'Hentai Manga Not Found Command must be used like this\n/nh <hentai code\nexample: /nh 339989',
+                file='https://telegra.ph/file/977679ba01df954a40880.mp4'
             )
         elif '/nh' in event.raw_text:
             text = event.raw_text.split()
