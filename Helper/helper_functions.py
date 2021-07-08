@@ -1,4 +1,4 @@
-from API.gogoanimeapi import gogoanime as gogo
+from gogoanimeapi import gogoanime as gogo
 from telethon import Button
 from config import bot
 from Helper import formating_results as format
