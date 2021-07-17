@@ -1,7 +1,8 @@
 
-<h1 align="center">Hentai Manga Bot</h1>
+![logo](https://telegra.ph/file/63298c5e15f452da6e715.jpg)
+<h1 align="center">ℋℯ𝓃𝓉𝒶𝒾 ℳ𝒶𝓃ℊ𝒶 ℬℴ𝓉</h1>
 
-<b>A Bot which uses unofficial  nhentaia api to search and provide manga respectively to the user.</b>
+<b>A Bot which uses unofficial nhentaia api to search and provide manga respectively to the user.!</b>
 
 
 
@@ -14,6 +15,7 @@
   <summary>Commands Available: </summary>
 
 <pre>/start</pre>: Cool command to check if bot is working.
+<pre>/Help</pre>: To Get Insturtion To use The bot.
 <pre>/nh</pre>: To Get Adult Manga by codes , Example : /nh 339989
 </details>
 
@@ -37,10 +39,12 @@ To run this project, you will need to add the following environment variables to
 
 
 
-
-
 ## Creator
 
 - [Achu biju](https://github.com/Achu2234/Heroku-Manga-DL-Bot)Dev
 
+
+## Thanks To
+
+- [Alexandre Senpai](https://github.com/Achu2234/Heroku-Manga-DL-Bot) For His [Hentai-API](https://pypi.org/project/NHentai-API/)
 
