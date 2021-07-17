@@ -41,10 +41,10 @@ To run this project, you will need to add the following environment variables to
 
 ## Creator
 
-- [Achu biju](https://github.com/Achu2234/Heroku-Manga-DL-Bot)Dev
+- [Achu biju](https://github.com/Achu2234/HentaiMangaBot)Dev
 
 
 ## Thanks To
 
-- [Alexandre Senpai](https://github.com/Achu2234/Heroku-Manga-DL-Bot) For His [NHentai-API](https://pypi.org/project/NHentai-API/)
+- Alexandre Senpai For His [NHentai-API](https://pypi.org/project/NHentai-API/)
 
